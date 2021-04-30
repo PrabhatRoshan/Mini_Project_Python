@@ -13,5 +13,9 @@
 
                                                     Math.sqrt(upp_bound-low_bound+2).
                                                     
+                                                    
+### Output Screenshot
+
+![Output_Screenshot](https://user-images.githubusercontent.com/80385292/116699939-d029c200-a9e3-11eb-9979-2b9d929fac26.png)
 
 
