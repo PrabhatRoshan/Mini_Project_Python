@@ -1,6 +1,10 @@
 # Mini_Project_Python_by_260256
 
 ## Prediction_Game
+
+![new1](https://user-images.githubusercontent.com/80385292/116699306-0ca8ee00-a9e3-11eb-954d-7dd969b09fd2.jpg)
+
+
 | CI |
 |:---|
 |[![CI](https://github.com/PrabhatRoshan/Mini_Project_Python/actions/workflows/main.yml/badge.svg)](https://github.com/PrabhatRoshan/Mini_Project_Python/actions/workflows/main.yml)|
