@@ -2,7 +2,7 @@
 
 ## Prediction_Game
 
-| CI | Static code analysis with pylint |
+| CI | Static code analysis pylint with fluke 8 |
 |:---|:---------------------------------|
 |[![CI](https://github.com/PrabhatRoshan/Mini_Project_Python/actions/workflows/main.yml/badge.svg)](https://github.com/PrabhatRoshan/Mini_Project_Python/actions/workflows/main.yml)|[![Python lint with flake8](https://github.com/PrabhatRoshan/Mini_Project_Python/actions/workflows/python-app.yml/badge.svg)](https://github.com/PrabhatRoshan/Mini_Project_Python/actions/workflows/python-app.yml)|
 
